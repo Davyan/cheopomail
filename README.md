@@ -1,4 +1,4 @@
 CheapoMail
 ==========
 
-The Final web project
+INFO2180 Final project 2015
